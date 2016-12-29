@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "React/Redux Starter App",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/Bdthomson/react-redux-starter.git",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
